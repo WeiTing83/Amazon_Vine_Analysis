@@ -11,8 +11,8 @@ Vine members.
 >
 ### Results: 
 #### Load the transformed data into pgAdmin:
-![vine](https://github.com/WeiTing83/Amazon_Vine_Analysis/blob/version1/images/vine.png)
-![product](https://github.com/WeiTing83/Amazon_Vine_Analysis/blob/version1/images/product.png)
+![vine](https://github.com/WeiTing83/Amazon_Vine_Analysis/blob/main/images/vine.png)
+![product](https://github.com/WeiTing83/Amazon_Vine_Analysis/blob/main/images/product.png)
 >
 #### Analysis vine review:
 - Vine reviews are 1266 data. ; Non-Vine reviews are 62028
