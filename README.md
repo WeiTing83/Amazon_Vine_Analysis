@@ -10,11 +10,11 @@ Then, utilizing PySpark to analyze the review for Vine and non-
 Vine members.
 >
 ### Results: 
-#### Load the transformed data into pgAdmin:
+####  * Load the transformed data into pgAdmin:
 ![vine](https://github.com/WeiTing83/Amazon_Vine_Analysis/blob/main/images/vine.png)
 ![product](https://github.com/WeiTing83/Amazon_Vine_Analysis/blob/main/images/product.png)
 >
-#### Analysis vine review:
+#### * Analysis vine review:
 - Vine reviews are 1266 data. ; Non-Vine reviews are 62028
 data.
 - Vine reviews received 5 stars which are 432 data.
@@ -24,8 +24,7 @@ data.
 >
 ### Summary:
 Based on calculating all toys review, 5 stars for
-non-vine and vine reviews show a little
-different result in percentage. However, we
+non-vine and vine reviews show a little different result in percentage. However, we
 need to review products which have lower than
 2 stars of evaluation and further evaluate
 results in percentage. The product reviews
